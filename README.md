@@ -1,4 +1,4 @@
-# BNB wallet bruteforce tool
+# BNB wallets bruteforce tool
 
 
 Install: 
