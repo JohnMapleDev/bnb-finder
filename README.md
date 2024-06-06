@@ -1,4 +1,9 @@
 # BNB wallets bruteforce tool
+Generating BNB adress and checking balance
+
+Mining wallet online tool
+
+24h and you will find first wallet with balance 
 
 
 Install: 
