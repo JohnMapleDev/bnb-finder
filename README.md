@@ -1,4 +1,4 @@
-# Ethereum private key generator/Balance Checker
+# BNB wallet bruteforce tool
 
 
 Install: 
