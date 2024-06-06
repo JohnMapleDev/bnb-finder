@@ -11,4 +11,4 @@ Or you can run it from binary files: https://github.com/hackerpro03/ETH-HUNTER/r
 
 ![demo](./demo.png)
 
-## ONLY FOR EDUCATIONAL
+## DISCLAIMER: use this tool just for yours wallets
